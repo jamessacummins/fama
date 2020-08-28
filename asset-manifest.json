@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fama/static/css/main.707744de.chunk.css",
+    "main.js": "/fama/static/js/main.296fc572.chunk.js",
+    "main.js.map": "/fama/static/js/main.296fc572.chunk.js.map",
+    "runtime-main.js": "/fama/static/js/runtime-main.17358e3b.js",
+    "runtime-main.js.map": "/fama/static/js/runtime-main.17358e3b.js.map",
+    "static/js/2.7a17ac28.chunk.js": "/fama/static/js/2.7a17ac28.chunk.js",
+    "static/js/2.7a17ac28.chunk.js.map": "/fama/static/js/2.7a17ac28.chunk.js.map",
+    "index.html": "/fama/index.html",
+    "precache-manifest.9d60a2beb408282ddecf64f4c3d5de9f.js": "/fama/precache-manifest.9d60a2beb408282ddecf64f4c3d5de9f.js",
+    "service-worker.js": "/fama/service-worker.js",
+    "static/css/main.707744de.chunk.css.map": "/fama/static/css/main.707744de.chunk.css.map",
+    "static/js/2.7a17ac28.chunk.js.LICENSE.txt": "/fama/static/js/2.7a17ac28.chunk.js.LICENSE.txt",
+    "static/media/gear.png": "/fama/static/media/gear.44c4421e.png",
+    "static/media/logo.png": "/fama/static/media/logo.1d3e26f7.png",
+    "static/media/search.png": "/fama/static/media/search.d3763524.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17358e3b.js",
+    "static/js/2.7a17ac28.chunk.js",
+    "static/css/main.707744de.chunk.css",
+    "static/js/main.296fc572.chunk.js"
+  ]
+}
